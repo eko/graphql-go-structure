@@ -1,0 +1,6 @@
+{
+  "jwt": {
+    "name": "example",
+    "secret": "my-super-secret-password"
+  }
+}

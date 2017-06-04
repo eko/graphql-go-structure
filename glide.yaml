@@ -1,0 +1,10 @@
+package: graphql-go-example
+owners:
+- name: Vincent Composieux
+  email: vincent.composieux@gmail.com
+import:
+- package: github.com/dgrijalva/jwt-go
+  version: ^3.0.0
+- package: github.com/graphql-go/graphql
+  version: ^0.6.0
+- package: github.com/graphql-go/handler
