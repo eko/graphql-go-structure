@@ -1,0 +1,7 @@
+github.com/dgrijalva/jwt-go v3.0.0+incompatible/go.mod h1:E3ru+11k8xSBh+hMPgOLZmtrrCbhqsmaPHjLKYnJCaQ=
+github.com/graphql-go/graphql v0.6.0 h1:GfvaRDnzkyp160/2WebwvLiXCaAJci87G/FSsFwe4zY=
+github.com/graphql-go/graphql v0.6.0/go.mod h1:k6yrAYQaSP59DC5UVxbgxESlmVyojThKdORUqGDGmrI=
+github.com/graphql-go/handler v0.1.0 h1:ohBnhJfp19HdiJGMJEJgJDxdv0SjiZn8uzuD3O1AoEY=
+github.com/graphql-go/handler v0.1.0/go.mod h1:leLF6RpV5uZMN1CdImAxuiayrYYhOk33bZciaUGaXeU=
+golang.org/x/net v0.0.0-20170529214944-3da985ce5951 h1:SGPsCZyShalq+f5tfept66KZ99rRCUajx5AN8oagSNU=
+golang.org/x/net v0.0.0-20170529214944-3da985ce5951/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
